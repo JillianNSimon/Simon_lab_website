@@ -7,7 +7,7 @@ description: An overview of our labs research, scientific tools, team members an
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
-baseurl: /thesimonlab
+baseurl: /""
 
 # site social media and other links
 links:
